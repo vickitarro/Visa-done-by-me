@@ -7,6 +7,6 @@ Visa Done By Me is a web application that helps people learn how to apply for vi
 - Booking & scheduling
 - Reminder notifications
 - Subscription access
-
+- Support ticketing system
 ## Goal
 To empower users to complete visa applications confidently without agents.
