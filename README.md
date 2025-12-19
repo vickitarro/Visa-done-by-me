@@ -3,7 +3,7 @@ Visa Done By Me is a web application that helps people learn how to apply for vi
 
 ## Features (Planned)
 - Country visa guides
-- Personalized visa checklists
+- Personalized visa checklist
 - Booking & scheduling
 - Reminder notifications
 - Subscription access
